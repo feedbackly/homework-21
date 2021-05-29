@@ -82,4 +82,4 @@ You can double-check the answer using http://www.npscalculator.com/en
 
 https://docs.mongodb.com/manual/reference/operator/aggregation/group/
 
-https://docs.mongodb.com/manual/reference/operator/aggregation/cond/
+https://docs.mongodb.com/manual/reference/operator/aggregation/switch
