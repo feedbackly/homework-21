@@ -77,3 +77,9 @@ The percentage of detractors is `3 / 5 = 60%`.
 The NPS Score is `20 - 60 = -40`.
 
 You can double-check the answer using http://www.npscalculator.com/en
+
+## Useful links
+
+https://docs.mongodb.com/manual/reference/operator/aggregation/group/
+
+https://docs.mongodb.com/manual/reference/operator/aggregation/cond/
